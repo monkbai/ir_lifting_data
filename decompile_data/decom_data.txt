@@ -1,1 +1,11 @@
-https://www.dropbox.com/s/jpnm63e8y3w189m/decom_data.tar.gz?dl=0
+decompilation data clang O0:
+https://www.dropbox.com/s/3ekypag9vy8eqkc/decompilation_clang_O0.zip?dl=0
+
+decompilation data clang O3:
+https://www.dropbox.com/s/4twtpbe37x1gk14/decompilation_clang_O3.zip?dl=0
+
+decompilation data gcc O0:
+https://www.dropbox.com/s/pp0vd9va83zzfp0/decompilation_gcc_O0.zip?dl=0
+
+decompilation data gcc O3:
+https://www.dropbox.com/s/ne27mpyph9t6i9f/decompilation_gcc_O3.zip?dl=0

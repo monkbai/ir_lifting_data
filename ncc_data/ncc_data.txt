@@ -1,1 +1,11 @@
-https://www.dropbox.com/s/58qyshhz5nbkg6k/ncc_data.tar.gz?dl=0
+ncc data clang O0:
+https://www.dropbox.com/s/2kcxyn4p20unwa5/ncc_data_clang_O0.zip?dl=0
+
+ncc data clang O3:
+https://www.dropbox.com/s/16c70rmsgz98b1i/ncc_data_clang_O3.zip?dl=0
+
+ncc data gcc O0:
+https://www.dropbox.com/s/gq7nvfg041j1f4u/ncc_data_gcc_O0.zip?dl=0
+
+ncc data gcc O3:
+https://www.dropbox.com/s/yohxq6ixjitah0h/ncc_data_gcc_O3.zip?dl=0
