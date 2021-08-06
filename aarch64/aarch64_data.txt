@@ -1,1 +1,4 @@
+https://zenodo.org/record/5163174/files/aarch64_data.zip?download=1
+or
 https://www.dropbox.com/s/g4mj0mc32p6ff4t/aarch64_data.zip?dl=0
+

@@ -1,8 +1,14 @@
 McSema + ASan:
+https://zenodo.org/record/5163174/files/McSema%2BASan.zip?download=1
+or
 https://www.dropbox.com/s/j7ls0ve4xwqx2ku/McSema%2BASan.zip?dl=0
 
 RetDec + ASan:
+https://zenodo.org/record/5163174/files/RetDec%2BASan.zip?download=1
+or
 https://www.dropbox.com/s/zwv3x78ups1sazu/RetDec%2BASan.zip?dl=0
 
 RetroWrite BASan:
+https://zenodo.org/record/5163174/files/RetroWrite_BASan.zip?download=1
+or
 https://www.dropbox.com/s/i8j08iqbs12i9bl/RetroWrite_BASan.zip?dl=0

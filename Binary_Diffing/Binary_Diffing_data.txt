@@ -1,2 +1,4 @@
 BinDiff & DeepBinDiff:
+https://zenodo.org/record/5163174/files/BinaryDiffing.zip?download=1
+or
 https://www.dropbox.com/s/0eh6pz5lizaiuau/BinaryDiffing.zip?dl=0

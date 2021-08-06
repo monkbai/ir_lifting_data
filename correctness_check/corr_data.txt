@@ -1,1 +1,3 @@
+https://zenodo.org/record/5163174/files/corr_data.tar.gz?download=1
+or
 https://www.dropbox.com/s/29u3sfrasm2543z/corr_data.tar.gz?dl=0

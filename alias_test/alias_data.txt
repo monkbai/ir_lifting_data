@@ -1,1 +1,3 @@
+https://zenodo.org/record/5163174/files/alias_data.tar.gz?download=1
+or
 https://www.dropbox.com/s/ivgrzs9ei4ozeuv/alias_data.tar.gz?dl=0
