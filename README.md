@@ -52,3 +52,10 @@ We apply the Address Sanitizer on the IR lifted by McSema and RetDec and compare
 ├── ncc_data           (Data used for Discriminability Analysis: POJ-104)
 └── lifter-sm.pdf      (Supplementary Materials)
 ```
+
+
+## Main Results
+
+<img src="https://github.com/monkbai/ir_lifting_data/blob/master/main_results.png" width="682" height="328" />
+
+For more detailed evaluation results, please at the [paper](https://github.com/monkbai/ir_lifting_data).
