@@ -30,7 +30,7 @@ Please refer to [lifter-summary](https://github.com/monkbai/ir_lifting_data/blob
  * Testcases generated with EMI mutation [alias_test/alias_data.txt](https://github.com/monkbai/ir_lifting_data/blob/master/alias_test/alias_data.txt)
 
 ### Discriminability Analysis
- * We use the POJ_104 dataset used in NCC, the lifted LLVM IR can be download from [here](https://github.com/monkbai/ir_lifting_data/blob/master/ncc_data/ncc_data.txt)
+ * We use the [POJ-104](https://arxiv.org/abs/1409.5718) dataset used in NCC, the lifted LLVM IR can be download from [here](https://github.com/monkbai/ir_lifting_data/blob/master/ncc_data/ncc_data.txt)
 
 ### Decompilation
  * In total nine C programs in SPEC INT 2006 benchmark, the lifted IR can be download from [decompile_data/decom_data.txt](https://github.com/monkbai/ir_lifting_data/blob/master/decompile_data/decom_data.txt)
