@@ -9,10 +9,11 @@ Zenodo link: [https://zenodo.org/record/5163174#.YQy6dEC-vb0](https://zenodo.org
 
 ## Lifters:
 
- * McSema [https://github.com/lifting-bits/mcsema](https://github.com/lifting-bits/mcsema)
- * RetDec [https://github.com/avast/retdec](https://github.com/avast/retdec)
- * Mctoll [https://github.com/microsoft/llvm-mctoll](https://github.com/microsoft/llvm-mctoll)
- * BinRec [https://github.com/securesystemslab/BinRec](https://github.com/securesystemslab/BinRec)
+ * McSema: [https://github.com/lifting-bits/mcsema](https://github.com/lifting-bits/mcsema)
+ * McSema<sup>0</sup>: McSema with all LLVM optimizations disabled  
+ * RetDec: [https://github.com/avast/retdec](https://github.com/avast/retdec)
+ * Mctoll: [https://github.com/microsoft/llvm-mctoll](https://github.com/microsoft/llvm-mctoll)
+ * BinRec: [https://github.com/securesystemslab/BinRec](https://github.com/securesystemslab/BinRec)
 
 ## Downstream Application
 
