@@ -7,6 +7,8 @@ Paper link: TBA
 
 Zenodo link: [https://zenodo.org/record/5163174#.YQy6dEC-vb0](https://zenodo.org/record/5163174#.YQy6dEC-vb0)
 
+(Note: This work started in the summer of 2020. Many of the tools evaluated have been under continuous development and refinement over the past two years (e.g., rev.ng). The results in the paper may not fully reflect the state of each tool at this time. We recommend that users try to use the latest version of tools when choosing the right one and don't rely solely on the results of this paper.)
+
 ## Lifters:
 
  * McSema: [https://github.com/lifting-bits/mcsema](https://github.com/lifting-bits/mcsema)
