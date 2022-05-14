@@ -60,4 +60,4 @@ We apply the Address Sanitizer on the IR lifted by McSema and RetDec and compare
 
 <img src="https://github.com/monkbai/ir_lifting_data/blob/master/main_results.png" width="682" height="328" />
 
-For more detailed evaluation results, please at the [paper](https://github.com/monkbai/ir_lifting_data).
+For more detailed evaluation results, please see our [paper](https://github.com/monkbai/ir_lifting_data).
