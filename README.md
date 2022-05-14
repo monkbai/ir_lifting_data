@@ -3,7 +3,7 @@
 
 Artifact for **IEEE Security and Privacy 2022** paper: "SoK: Demystifying Binary Lifters Through the Lens of Downstream Applications".
 
-Paper link: TBA
+Paper: [link](https://www.computer.org/csdl/proceedings-article/sp/2022/131600a453/1wKCev3wlbO)
 
 Zenodo link: [https://zenodo.org/record/5163174#.YQy6dEC-vb0](https://zenodo.org/record/5163174#.YQy6dEC-vb0)
 
